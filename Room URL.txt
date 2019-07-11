@@ -1,0 +1,16 @@
+Dining Room
+http://localhost:63342/ZorkJavaScript/diningroom.html?_ijt=f5d9kqso0suttg01fqfdv46iui
+Foyer
+http://localhost:63342/ZorkJavaScript/foyer.html?_ijt=mi10on7rv58c1cdishqrd7sd11
+Front Room
+http://localhost:63342/ZorkJavaScript/frontroom.html?_ijt=f5d9kqso0suttg01fqfdv46iui
+Kitchen
+http://localhost:63342/ZorkJavaScript/kitchen.html?_ijt=f5d9kqso0suttg01fqfdv46iui
+Library
+http://localhost:63342/ZorkJavaScript/library.html?_ijt=f5d9kqso0suttg01fqfdv46iui
+Parlor
+http://localhost:63342/ZorkJavaScript/parlor.html?_ijt=f5d9kqso0suttg01fqfdv46iui
+Secret Room
+http://localhost:63342/ZorkJavaScript/secretroom.html?_ijt=f5d9kqso0suttg01fqfdv46iui
+Vault
+http://localhost:63342/ZorkJavaScript/vault.html?_ijt=f5d9kqso0suttg01fqfdv46iui

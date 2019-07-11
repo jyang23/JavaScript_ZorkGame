@@ -1,0 +1,137 @@
+div container {
+    border-radius: 50px;
+    height: 50px;
+    width: 75px;
+    background-color: white;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+p{
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body.mansion {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/yRF5c-O/haunted-house-mansion-during-dark-night-with-lightning-and-clouds-4k-uhd-ultra-hd_ra8p7z1ml_thumbnail-full03.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.foyer {
+    background-image: url("http://www.ludiclearning.org/wp-content/uploads/2014/03/gone-home-entryway-960x540-2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.kitchen {
+    background-image: url("https://futurism.com/wp-content/uploads/2017/01/bladerunnervr03-1200x750.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.library {
+    background-image: url("https://cdn.80.lv/80.lv/uploads/2019/05/vladimir-lepotic-vladimir-lepotic-03-1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.diningroom {
+    background-image: url("https://www.sims4-mods.com/images/9/79/MTS_Christine11778-1804015-1313laurellaneDV010.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.parlor {
+    background-image: url("https://cdn1.thr.com/sites/default/files/2019/06/the_haunting_of_hill_house_production_design.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.secretroom {
+    background-image: url("https://images.wallpaperscraft.com/image/magic_ball_library_columns_castle_63093_3840x2160.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.vault {
+    background-image: url("https://vignette.wikia.nocookie.net/rwby/images/f/f7/V3_06_Vault_1.png/revision/latest?cb=20151213175441");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.frontroom {
+    background-image: url("http://makingitlovely.com/wp-content/uploads/2017/12/Living-Room-Dining-Room-Sims4-House-MakingitLovely.jpg-810x455.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image1
+{
+    height: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.path__display {
+    background-color: #222222;
+    color: #fff;
+    font-size: 20px;
+    padding: 0.5em 0.75em;
+    text-align: right;
+    margin: auto;
+}
+
+form {
+    background-color: #222222;
+    color: #fff;
+    font-size: 20px;
+    padding: 0.5em 0.75em;
+    text-align: right;
+    margin: auto;
+}
+
+div.keys {
+    position: absolute;
+    bottom: 20%;
+}
+
+
+
+
